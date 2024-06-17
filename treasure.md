@@ -67,6 +67,8 @@ You and your friends have discovered ancient runes and need to decode them toget
 5. Push the branch to GitHub.
 6. Create a pull request for review.
 7.Send a message to everbody say hello
+8. MY name is gasper samuel 
+9. am a computer sci student at the univesitygit 
 
 ### Hint:
 ```
