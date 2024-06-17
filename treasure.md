@@ -66,6 +66,7 @@ You and your friends have discovered ancient runes and need to decode them toget
 4. Commit your changes.
 5. Push the branch to GitHub.
 6. Create a pull request for review.
+7.Send a message to everbody say hello
 
 ### Hint:
 ```
